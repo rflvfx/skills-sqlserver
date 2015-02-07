@@ -2,3 +2,4 @@
 - Document usage — iteration 9 (2015)
 - Improve naming — iteration 11 (2015)
 - Add tests — iteration 13 (2015)
+- Extend coverage — iteration 16 (2015)
