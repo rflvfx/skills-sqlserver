@@ -20,3 +20,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Extend coverage — iteration 17 (2015)
 - Add helper — iteration 18 (2015)
 - Add feature — iteration 19 (2015)
+- Document usage — iteration 22 (2015)
