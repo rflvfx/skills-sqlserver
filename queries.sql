@@ -15,3 +15,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Extend coverage — iteration 2 (2015)
 - Refactor module — iteration 5 (2015)
 - Polish code — iteration 10 (2015)
+- Update config — iteration 12 (2015)
