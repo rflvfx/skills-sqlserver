@@ -8,3 +8,4 @@
 - Tweak implementation — iteration 33 (2015)
 - Add feature — iteration 41 (2015)
 - Improve naming — iteration 52 (2015)
+- Polish code — iteration 54 (2015)
