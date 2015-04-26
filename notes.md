@@ -6,3 +6,4 @@
 - Extend coverage — iteration 20 (2015)
 - Optimize performance — iteration 25 (2015)
 - Refactor module — iteration 37 (2015)
+- Add helper — iteration 40 (2015)
