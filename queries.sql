@@ -23,3 +23,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Document usage — iteration 22 (2015)
 - Add feature — iteration 23 (2015)
 - Refactor module — iteration 26 (2015)
+- Fix edge case — iteration 32 (2015)
