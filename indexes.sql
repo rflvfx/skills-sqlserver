@@ -9,3 +9,4 @@
 - Add feature — iteration 41 (2015)
 - Improve naming — iteration 52 (2015)
 - Polish code — iteration 54 (2015)
+- Improve error handling — iteration 58 (2015)
