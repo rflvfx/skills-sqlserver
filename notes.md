@@ -11,3 +11,4 @@
 - Improve naming — iteration 46 (2015)
 - Add validation — iteration 47 (2015)
 - Update dependencies — iteration 48 (2015)
+- Minor cleanup — iteration 53 (2015)
