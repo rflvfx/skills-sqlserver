@@ -5,3 +5,4 @@
 - Add validation — iteration 28 (2015)
 - Fix typo — iteration 31 (2015)
 - Add example — iteration 42 (2015)
+- Optimize performance — iteration 43 (2015)
