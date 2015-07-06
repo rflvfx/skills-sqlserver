@@ -29,3 +29,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Fix lint warnings — iteration 36 (2015)
 - Update docs — iteration 38 (2015)
 - Update config — iteration 39 (2015)
+- Extend coverage — iteration 50 (2015)
