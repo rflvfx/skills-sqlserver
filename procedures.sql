@@ -9,3 +9,4 @@
 - Add validation — iteration 44 (2015)
 - Improve error handling — iteration 49 (2015)
 - Update config — iteration 55 (2015)
+- Add validation — iteration 57 (2015)
