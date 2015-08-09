@@ -9,3 +9,4 @@
 - Add helper — iteration 40 (2015)
 - Optimize performance — iteration 45 (2015)
 - Improve naming — iteration 46 (2015)
+- Add validation — iteration 47 (2015)
