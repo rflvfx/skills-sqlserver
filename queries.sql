@@ -26,3 +26,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Fix edge case — iteration 32 (2015)
 - Improve naming — iteration 34 (2015)
 - Update dependencies — iteration 35 (2015)
+- Fix lint warnings — iteration 36 (2015)
