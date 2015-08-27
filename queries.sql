@@ -12,3 +12,4 @@ WITH ranked AS (
   FROM orders
 )
 SELECT * FROM ranked WHERE rn = 1;
+- Extend coverage — iteration 2 (2015)
