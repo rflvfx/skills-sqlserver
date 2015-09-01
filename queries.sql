@@ -19,3 +19,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Fix typo — iteration 14 (2015)
 - Extend coverage — iteration 17 (2015)
 - Add helper — iteration 18 (2015)
+- Add feature — iteration 19 (2015)
