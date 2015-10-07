@@ -2,3 +2,4 @@
 - Improve error handling — iteration 4 (2015)
 - Extend coverage — iteration 8 (2015)
 - Fix edge case — iteration 15 (2015)
+- Update docs — iteration 24 (2015)
