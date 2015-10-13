@@ -3,3 +3,4 @@
 - Extend coverage — iteration 8 (2015)
 - Fix edge case — iteration 15 (2015)
 - Update docs — iteration 24 (2015)
+- Add helper — iteration 29 (2015)
