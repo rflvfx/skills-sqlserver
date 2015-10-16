@@ -24,3 +24,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Add feature — iteration 23 (2015)
 - Refactor module — iteration 26 (2015)
 - Fix edge case — iteration 32 (2015)
+- Improve naming — iteration 34 (2015)
