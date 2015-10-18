@@ -1,2 +1,3 @@
 - Add feature — iteration 1 (2015)
 - Improve error handling — iteration 4 (2015)
+- Extend coverage — iteration 8 (2015)
