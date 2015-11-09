@@ -8,3 +8,4 @@
 - Refactor module — iteration 37 (2015)
 - Add helper — iteration 40 (2015)
 - Optimize performance — iteration 45 (2015)
+- Improve naming — iteration 46 (2015)
