@@ -30,3 +30,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Update docs — iteration 38 (2015)
 - Update config — iteration 39 (2015)
 - Extend coverage — iteration 50 (2015)
+- Add validation — iteration 51 (2015)
