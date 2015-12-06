@@ -1,1 +1,2 @@
 - Refactor module — iteration 3 (2015)
+- Improve error handling — iteration 6 (2015)
