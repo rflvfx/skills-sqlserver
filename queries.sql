@@ -17,3 +17,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Polish code — iteration 10 (2015)
 - Update config — iteration 12 (2015)
 - Fix typo — iteration 14 (2015)
+- Extend coverage — iteration 17 (2015)
