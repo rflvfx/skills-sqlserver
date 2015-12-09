@@ -4,3 +4,4 @@
 - Add tests — iteration 13 (2015)
 - Extend coverage — iteration 16 (2015)
 - Extend coverage — iteration 20 (2015)
+- Optimize performance — iteration 25 (2015)
