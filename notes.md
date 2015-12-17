@@ -1,2 +1,3 @@
 - Fix edge case — iteration 7 (2015)
 - Document usage — iteration 9 (2015)
+- Improve naming — iteration 11 (2015)
