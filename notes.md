@@ -12,3 +12,4 @@
 - Add validation — iteration 47 (2015)
 - Update dependencies — iteration 48 (2015)
 - Minor cleanup — iteration 53 (2015)
+- Extend coverage — iteration 56 (2015)
