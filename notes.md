@@ -1,1 +1,2 @@
 - Fix edge case — iteration 7 (2015)
+- Document usage — iteration 9 (2015)
