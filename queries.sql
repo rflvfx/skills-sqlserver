@@ -27,3 +27,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Improve naming — iteration 34 (2015)
 - Update dependencies — iteration 35 (2015)
 - Fix lint warnings — iteration 36 (2015)
+- Update docs — iteration 38 (2015)
