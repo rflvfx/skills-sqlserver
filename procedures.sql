@@ -25,3 +25,4 @@
 - Improve naming — iteration 28 (2016)
 - Update dependencies — iteration 31 (2016)
 - Refactor module — iteration 36 (2016)
+- Update config — iteration 38 (2016)
