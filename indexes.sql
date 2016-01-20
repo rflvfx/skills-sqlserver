@@ -12,3 +12,4 @@
 - Improve error handling — iteration 58 (2015)
 - Tweak implementation — iteration 59 (2015)
 - Document usage — iteration 1 (2016)
+- Refactor module — iteration 6 (2016)
