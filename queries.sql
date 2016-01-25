@@ -33,3 +33,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Add validation — iteration 51 (2015)
 - Fix lint warnings — iteration 60 (2015)
 - Polish code — iteration 5 (2016)
+- Fix edge case — iteration 12 (2016)
