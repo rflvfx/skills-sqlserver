@@ -23,3 +23,4 @@
 - Tweak implementation — iteration 24 (2016)
 - Add feature — iteration 26 (2016)
 - Improve naming — iteration 28 (2016)
+- Update dependencies — iteration 31 (2016)
