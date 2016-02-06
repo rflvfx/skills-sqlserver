@@ -39,3 +39,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Add validation — iteration 22 (2016)
 - Optimize performance — iteration 25 (2016)
 - Refactor module — iteration 32 (2016)
+- Tweak implementation — iteration 35 (2016)
