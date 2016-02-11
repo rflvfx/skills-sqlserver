@@ -35,3 +35,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Polish code — iteration 5 (2016)
 - Fix edge case — iteration 12 (2016)
 - Fix lint warnings — iteration 18 (2016)
+- Improve error handling — iteration 19 (2016)
