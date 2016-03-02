@@ -40,3 +40,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Optimize performance — iteration 25 (2016)
 - Refactor module — iteration 32 (2016)
 - Tweak implementation — iteration 35 (2016)
+- Add tests — iteration 40 (2016)
