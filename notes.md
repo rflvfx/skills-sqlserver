@@ -16,3 +16,4 @@
 - Add tests — iteration 2 (2016)
 - Add helper — iteration 8 (2016)
 - Add helper — iteration 15 (2016)
+- Update dependencies — iteration 29 (2016)
