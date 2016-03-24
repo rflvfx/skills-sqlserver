@@ -26,3 +26,4 @@
 - Update dependencies — iteration 31 (2016)
 - Refactor module — iteration 36 (2016)
 - Update config — iteration 38 (2016)
+- Minor cleanup — iteration 39 (2016)
