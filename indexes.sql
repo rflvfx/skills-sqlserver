@@ -23,3 +23,4 @@
 - Add feature — iteration 50 (2016)
 - Update config — iteration 53 (2016)
 - Refactor module — iteration 58 (2016)
+- Tweak implementation — iteration 59 (2016)
