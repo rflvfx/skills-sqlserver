@@ -24,3 +24,4 @@
 - Add feature — iteration 26 (2016)
 - Improve naming — iteration 28 (2016)
 - Update dependencies — iteration 31 (2016)
+- Refactor module — iteration 36 (2016)
