@@ -21,3 +21,4 @@
 - Document usage — iteration 20 (2016)
 - Fix edge case — iteration 21 (2016)
 - Tweak implementation — iteration 24 (2016)
+- Add feature — iteration 26 (2016)
