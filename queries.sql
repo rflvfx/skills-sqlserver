@@ -32,3 +32,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Extend coverage — iteration 50 (2015)
 - Add validation — iteration 51 (2015)
 - Fix lint warnings — iteration 60 (2015)
+- Polish code — iteration 5 (2016)
