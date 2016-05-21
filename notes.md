@@ -14,3 +14,4 @@
 - Minor cleanup — iteration 53 (2015)
 - Extend coverage — iteration 56 (2015)
 - Add tests — iteration 2 (2016)
+- Add helper — iteration 8 (2016)
