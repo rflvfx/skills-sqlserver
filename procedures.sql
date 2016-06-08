@@ -11,3 +11,4 @@
 - Update config — iteration 55 (2015)
 - Add validation — iteration 57 (2015)
 - Update docs — iteration 3 (2016)
+- Extend coverage — iteration 4 (2016)
