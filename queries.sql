@@ -37,3 +37,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Fix lint warnings — iteration 18 (2016)
 - Improve error handling — iteration 19 (2016)
 - Add validation — iteration 22 (2016)
+- Optimize performance — iteration 25 (2016)
