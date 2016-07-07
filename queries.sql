@@ -42,3 +42,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Tweak implementation — iteration 35 (2016)
 - Add tests — iteration 40 (2016)
 - Polish code — iteration 44 (2016)
+- Fix edge case — iteration 48 (2016)
