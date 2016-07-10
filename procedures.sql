@@ -22,3 +22,4 @@
 - Fix edge case — iteration 21 (2016)
 - Tweak implementation — iteration 24 (2016)
 - Add feature — iteration 26 (2016)
+- Improve naming — iteration 28 (2016)
