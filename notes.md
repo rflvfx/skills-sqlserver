@@ -21,3 +21,4 @@
 - Refactor module — iteration 33 (2016)
 - Refactor module — iteration 37 (2016)
 - Add example — iteration 45 (2016)
+- Add feature — iteration 46 (2016)
