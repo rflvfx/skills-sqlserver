@@ -22,3 +22,4 @@
 - Document usage — iteration 42 (2016)
 - Add feature — iteration 50 (2016)
 - Update config — iteration 53 (2016)
+- Refactor module — iteration 58 (2016)
