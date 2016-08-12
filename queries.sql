@@ -41,3 +41,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Refactor module — iteration 32 (2016)
 - Tweak implementation — iteration 35 (2016)
 - Add tests — iteration 40 (2016)
+- Polish code — iteration 44 (2016)
