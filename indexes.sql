@@ -13,3 +13,4 @@
 - Tweak implementation — iteration 59 (2015)
 - Document usage — iteration 1 (2016)
 - Refactor module — iteration 6 (2016)
+- Fix lint warnings — iteration 13 (2016)
