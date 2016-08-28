@@ -21,3 +21,4 @@
 - Add validation — iteration 41 (2016)
 - Document usage — iteration 42 (2016)
 - Add feature — iteration 50 (2016)
+- Update config — iteration 53 (2016)
