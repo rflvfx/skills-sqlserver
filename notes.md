@@ -25,3 +25,4 @@
 - Tweak implementation — iteration 47 (2016)
 - Add helper — iteration 52 (2016)
 - Update config — iteration 55 (2016)
+- Add tests — iteration 57 (2016)
