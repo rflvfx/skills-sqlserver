@@ -18,3 +18,4 @@
 - Update dependencies — iteration 23 (2016)
 - Fix lint warnings — iteration 27 (2016)
 - Fix edge case — iteration 34 (2016)
+- Add validation — iteration 41 (2016)
