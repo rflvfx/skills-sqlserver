@@ -17,3 +17,4 @@
 - Fix lint warnings — iteration 17 (2016)
 - Update dependencies — iteration 23 (2016)
 - Fix lint warnings — iteration 27 (2016)
+- Fix edge case — iteration 34 (2016)
