@@ -19,3 +19,4 @@
 - Add tests — iteration 14 (2016)
 - Polish code — iteration 16 (2016)
 - Document usage — iteration 20 (2016)
+- Fix edge case — iteration 21 (2016)
