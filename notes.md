@@ -24,3 +24,4 @@
 - Add feature — iteration 46 (2016)
 - Tweak implementation — iteration 47 (2016)
 - Add helper — iteration 52 (2016)
+- Update config — iteration 55 (2016)
