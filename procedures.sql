@@ -12,3 +12,4 @@
 - Add validation — iteration 57 (2015)
 - Update docs — iteration 3 (2016)
 - Extend coverage — iteration 4 (2016)
+- Optimize performance — iteration 7 (2016)
