@@ -18,3 +18,4 @@
 - Add helper — iteration 15 (2016)
 - Update dependencies — iteration 29 (2016)
 - Fix edge case — iteration 30 (2016)
+- Refactor module — iteration 33 (2016)
