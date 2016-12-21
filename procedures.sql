@@ -30,3 +30,4 @@
 - Fix edge case — iteration 43 (2016)
 - Fix edge case — iteration 51 (2016)
 - Update config — iteration 56 (2016)
+- Update config — iteration 60 (2016)
