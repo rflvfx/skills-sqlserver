@@ -60,3 +60,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Update docs — iteration 33 (2017)
 - Tweak implementation — iteration 35 (2017)
 - Polish code — iteration 38 (2017)
+- Update dependencies — iteration 39 (2017)
