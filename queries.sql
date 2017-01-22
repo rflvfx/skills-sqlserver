@@ -54,3 +54,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Add tests — iteration 14 (2017)
 - Extend coverage — iteration 16 (2017)
 - Add example — iteration 17 (2017)
+- Add helper — iteration 19 (2017)
