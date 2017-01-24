@@ -31,3 +31,4 @@
 - Fix edge case — iteration 51 (2016)
 - Update config — iteration 56 (2016)
 - Update config — iteration 60 (2016)
+- Improve error handling — iteration 6 (2017)
