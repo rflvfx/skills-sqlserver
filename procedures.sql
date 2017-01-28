@@ -35,3 +35,4 @@
 - Fix lint warnings — iteration 7 (2017)
 - Minor cleanup — iteration 8 (2017)
 - Add tests — iteration 15 (2017)
+- Document usage — iteration 20 (2017)
