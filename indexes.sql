@@ -32,3 +32,4 @@
 - Improve naming — iteration 29 (2017)
 - Optimize performance — iteration 37 (2017)
 - Extend coverage — iteration 43 (2017)
+- Improve error handling — iteration 47 (2017)
