@@ -37,3 +37,4 @@
 - Add tests — iteration 15 (2017)
 - Document usage — iteration 20 (2017)
 - Update config — iteration 21 (2017)
+- Minor cleanup — iteration 25 (2017)
