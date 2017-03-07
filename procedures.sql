@@ -33,3 +33,4 @@
 - Update config — iteration 60 (2016)
 - Improve error handling — iteration 6 (2017)
 - Fix lint warnings — iteration 7 (2017)
+- Minor cleanup — iteration 8 (2017)
