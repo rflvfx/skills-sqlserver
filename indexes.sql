@@ -26,3 +26,4 @@
 - Tweak implementation — iteration 59 (2016)
 - Extend coverage — iteration 3 (2017)
 - Refactor module — iteration 12 (2017)
+- Add helper — iteration 13 (2017)
