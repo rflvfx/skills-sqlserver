@@ -42,3 +42,4 @@
 - Improve error handling — iteration 28 (2017)
 - Extend coverage — iteration 30 (2017)
 - Fix typo — iteration 36 (2017)
+- Update dependencies — iteration 46 (2017)
