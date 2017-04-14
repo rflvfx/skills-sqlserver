@@ -57,3 +57,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Add helper — iteration 19 (2017)
 - Fix typo — iteration 22 (2017)
 - Refactor module — iteration 32 (2017)
+- Update docs — iteration 33 (2017)
