@@ -62,3 +62,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Polish code — iteration 38 (2017)
 - Update dependencies — iteration 39 (2017)
 - Fix typo — iteration 41 (2017)
+- Improve error handling — iteration 51 (2017)
