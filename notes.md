@@ -32,3 +32,4 @@
 - Add tests — iteration 31 (2017)
 - Tweak implementation — iteration 34 (2017)
 - Extend coverage — iteration 40 (2017)
+- Update docs — iteration 42 (2017)
