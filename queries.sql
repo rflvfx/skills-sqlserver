@@ -59,3 +59,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Refactor module — iteration 32 (2017)
 - Update docs — iteration 33 (2017)
 - Tweak implementation — iteration 35 (2017)
+- Polish code — iteration 38 (2017)
