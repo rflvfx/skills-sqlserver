@@ -63,3 +63,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Update dependencies — iteration 39 (2017)
 - Fix typo — iteration 41 (2017)
 - Improve error handling — iteration 51 (2017)
+- Update config — iteration 56 (2017)
