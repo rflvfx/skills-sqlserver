@@ -49,3 +49,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Tweak implementation — iteration 4 (2017)
 - Update docs — iteration 5 (2017)
 - Fix lint warnings — iteration 9 (2017)
+- Add example — iteration 10 (2017)
