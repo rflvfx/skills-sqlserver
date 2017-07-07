@@ -27,3 +27,4 @@
 - Update config — iteration 55 (2016)
 - Add tests — iteration 57 (2016)
 - Add helper — iteration 2 (2017)
+- Improve error handling — iteration 18 (2017)
