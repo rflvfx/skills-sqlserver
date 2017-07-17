@@ -45,3 +45,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Fix edge case — iteration 48 (2016)
 - Add validation — iteration 49 (2016)
 - Update config — iteration 54 (2016)
+- Fix typo — iteration 1 (2017)
