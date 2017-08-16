@@ -33,3 +33,4 @@
 - Optimize performance — iteration 37 (2017)
 - Extend coverage — iteration 43 (2017)
 - Improve error handling — iteration 47 (2017)
+- Add helper — iteration 49 (2017)
