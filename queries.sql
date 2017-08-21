@@ -51,3 +51,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Fix lint warnings — iteration 9 (2017)
 - Add example — iteration 10 (2017)
 - Refactor module — iteration 11 (2017)
+- Add tests — iteration 14 (2017)
