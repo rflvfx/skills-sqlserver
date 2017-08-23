@@ -47,3 +47,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Update config — iteration 54 (2016)
 - Fix typo — iteration 1 (2017)
 - Tweak implementation — iteration 4 (2017)
+- Update docs — iteration 5 (2017)
