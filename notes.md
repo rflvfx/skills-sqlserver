@@ -34,3 +34,4 @@
 - Extend coverage — iteration 40 (2017)
 - Update docs — iteration 42 (2017)
 - Add validation — iteration 44 (2017)
+- Add example — iteration 45 (2017)
