@@ -35,3 +35,4 @@
 - Update docs — iteration 42 (2017)
 - Add validation — iteration 44 (2017)
 - Add example — iteration 45 (2017)
+- Fix lint warnings — iteration 48 (2017)
