@@ -35,3 +35,4 @@
 - Improve error handling — iteration 47 (2017)
 - Add helper — iteration 49 (2017)
 - Add tests — iteration 50 (2017)
+- Extend coverage — iteration 53 (2017)
