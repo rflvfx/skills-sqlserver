@@ -24,3 +24,4 @@
 - Update config — iteration 53 (2016)
 - Refactor module — iteration 58 (2016)
 - Tweak implementation — iteration 59 (2016)
+- Extend coverage — iteration 3 (2017)
