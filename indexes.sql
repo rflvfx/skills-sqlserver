@@ -29,3 +29,4 @@
 - Add helper — iteration 13 (2017)
 - Update config — iteration 23 (2017)
 - Add validation — iteration 24 (2017)
+- Improve naming — iteration 29 (2017)
