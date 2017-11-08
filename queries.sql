@@ -64,3 +64,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Fix typo — iteration 41 (2017)
 - Improve error handling — iteration 51 (2017)
 - Update config — iteration 56 (2017)
+- Add feature — iteration 58 (2017)
