@@ -40,3 +40,4 @@
 - Minor cleanup — iteration 25 (2017)
 - Minor cleanup — iteration 26 (2017)
 - Improve error handling — iteration 28 (2017)
+- Extend coverage — iteration 30 (2017)
