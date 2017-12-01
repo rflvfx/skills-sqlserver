@@ -36,3 +36,4 @@
 - Add helper — iteration 49 (2017)
 - Add tests — iteration 50 (2017)
 - Extend coverage — iteration 53 (2017)
+- Update dependencies — iteration 55 (2017)
