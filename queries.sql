@@ -46,3 +46,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Add validation — iteration 49 (2016)
 - Update config — iteration 54 (2016)
 - Fix typo — iteration 1 (2017)
+- Tweak implementation — iteration 4 (2017)
