@@ -46,3 +46,4 @@
 - Minor cleanup — iteration 27 (2018)
 - Polish code — iteration 35 (2018)
 - Add example — iteration 37 (2018)
+- Improve error handling — iteration 38 (2018)
