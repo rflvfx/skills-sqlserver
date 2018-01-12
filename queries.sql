@@ -65,3 +65,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Improve error handling — iteration 51 (2017)
 - Update config — iteration 56 (2017)
 - Add feature — iteration 58 (2017)
+- Document usage — iteration 1 (2018)
