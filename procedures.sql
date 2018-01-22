@@ -53,3 +53,4 @@
 - Polish code — iteration 15 (2018)
 - Add feature — iteration 25 (2018)
 - Add example — iteration 28 (2018)
+- Improve error handling — iteration 32 (2018)
