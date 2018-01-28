@@ -48,3 +48,4 @@
 - Add example — iteration 37 (2018)
 - Improve error handling — iteration 38 (2018)
 - Document usage — iteration 54 (2018)
+- Minor cleanup — iteration 56 (2018)
