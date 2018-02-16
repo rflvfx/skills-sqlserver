@@ -56,3 +56,4 @@
 - Improve error handling — iteration 32 (2018)
 - Update config — iteration 39 (2018)
 - Fix edge case — iteration 40 (2018)
+- Add feature — iteration 42 (2018)
