@@ -51,3 +51,4 @@
 - Document usage — iteration 8 (2018)
 - Refactor module — iteration 14 (2018)
 - Polish code — iteration 15 (2018)
+- Add feature — iteration 25 (2018)
