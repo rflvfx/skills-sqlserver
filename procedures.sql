@@ -59,3 +59,4 @@
 - Add feature — iteration 42 (2018)
 - Extend coverage — iteration 44 (2018)
 - Document usage — iteration 47 (2018)
+- Update config — iteration 49 (2018)
