@@ -52,3 +52,4 @@
 - Update dependencies — iteration 46 (2018)
 - Minor cleanup — iteration 48 (2018)
 - Refactor module — iteration 53 (2018)
+- Improve error handling — iteration 57 (2018)
