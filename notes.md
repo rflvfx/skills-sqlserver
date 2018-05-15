@@ -46,3 +46,4 @@
 - Tweak implementation — iteration 23 (2018)
 - Add validation — iteration 29 (2018)
 - Add helper — iteration 30 (2018)
+- Improve error handling — iteration 34 (2018)
