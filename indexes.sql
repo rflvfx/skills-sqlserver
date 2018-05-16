@@ -39,3 +39,4 @@
 - Update dependencies — iteration 55 (2017)
 - Add feature — iteration 59 (2017)
 - Add example — iteration 11 (2018)
+- Add tests — iteration 12 (2018)
