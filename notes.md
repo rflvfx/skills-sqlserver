@@ -41,3 +41,4 @@
 - Add example — iteration 9 (2018)
 - Extend coverage — iteration 10 (2018)
 - Minor cleanup — iteration 13 (2018)
+- Add feature — iteration 17 (2018)
