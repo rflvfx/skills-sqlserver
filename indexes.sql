@@ -43,3 +43,4 @@
 - Improve error handling — iteration 16 (2018)
 - Add helper — iteration 20 (2018)
 - Document usage — iteration 24 (2018)
+- Minor cleanup — iteration 27 (2018)
