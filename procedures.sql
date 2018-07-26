@@ -48,3 +48,4 @@
 - Polish code — iteration 57 (2017)
 - Refactor module — iteration 6 (2018)
 - Improve naming — iteration 7 (2018)
+- Document usage — iteration 8 (2018)
