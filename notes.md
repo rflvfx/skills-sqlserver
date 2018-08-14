@@ -42,3 +42,4 @@
 - Extend coverage — iteration 10 (2018)
 - Minor cleanup — iteration 13 (2018)
 - Add feature — iteration 17 (2018)
+- Fix lint warnings — iteration 22 (2018)
