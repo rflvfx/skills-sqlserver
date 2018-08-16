@@ -40,3 +40,4 @@
 - Add feature — iteration 59 (2017)
 - Add example — iteration 11 (2018)
 - Add tests — iteration 12 (2018)
+- Improve error handling — iteration 16 (2018)
