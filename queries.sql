@@ -75,3 +75,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Improve naming — iteration 31 (2018)
 - Update dependencies — iteration 33 (2018)
 - Document usage — iteration 36 (2018)
+- Polish code — iteration 45 (2018)
