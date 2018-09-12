@@ -38,3 +38,4 @@
 - Extend coverage — iteration 53 (2017)
 - Update dependencies — iteration 55 (2017)
 - Add feature — iteration 59 (2017)
+- Add example — iteration 11 (2018)
