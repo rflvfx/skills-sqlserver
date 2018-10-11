@@ -47,3 +47,4 @@
 - Polish code — iteration 35 (2018)
 - Add example — iteration 37 (2018)
 - Improve error handling — iteration 38 (2018)
+- Document usage — iteration 54 (2018)
