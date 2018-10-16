@@ -45,3 +45,4 @@
 - Fix lint warnings — iteration 22 (2018)
 - Tweak implementation — iteration 23 (2018)
 - Add validation — iteration 29 (2018)
+- Add helper — iteration 30 (2018)
