@@ -41,3 +41,4 @@
 - Add example — iteration 11 (2018)
 - Add tests — iteration 12 (2018)
 - Improve error handling — iteration 16 (2018)
+- Add helper — iteration 20 (2018)
