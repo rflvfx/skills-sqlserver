@@ -58,3 +58,4 @@
 - Fix edge case — iteration 40 (2018)
 - Add feature — iteration 42 (2018)
 - Extend coverage — iteration 44 (2018)
+- Document usage — iteration 47 (2018)
