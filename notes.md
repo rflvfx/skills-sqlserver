@@ -39,3 +39,4 @@
 - Update docs — iteration 3 (2018)
 - Document usage — iteration 4 (2018)
 - Add example — iteration 9 (2018)
+- Extend coverage — iteration 10 (2018)
