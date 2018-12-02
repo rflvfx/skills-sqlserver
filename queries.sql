@@ -74,3 +74,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Minor cleanup — iteration 26 (2018)
 - Improve naming — iteration 31 (2018)
 - Update dependencies — iteration 33 (2018)
+- Document usage — iteration 36 (2018)
