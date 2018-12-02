@@ -40,3 +40,4 @@
 - Document usage — iteration 4 (2018)
 - Add example — iteration 9 (2018)
 - Extend coverage — iteration 10 (2018)
+- Minor cleanup — iteration 13 (2018)
