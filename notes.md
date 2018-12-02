@@ -37,3 +37,4 @@
 - Add example — iteration 45 (2017)
 - Fix lint warnings — iteration 48 (2017)
 - Update docs — iteration 3 (2018)
+- Document usage — iteration 4 (2018)
