@@ -63,3 +63,4 @@
 - Update config — iteration 50 (2018)
 - Add validation — iteration 51 (2018)
 - Polish code — iteration 55 (2018)
+- Fix typo — iteration 60 (2018)
