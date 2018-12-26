@@ -67,3 +67,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Add feature — iteration 58 (2017)
 - Document usage — iteration 1 (2018)
 - Add tests — iteration 2 (2018)
+- Minor cleanup — iteration 5 (2018)
