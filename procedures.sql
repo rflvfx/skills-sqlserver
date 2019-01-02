@@ -72,3 +72,4 @@
 - Tweak implementation — iteration 17 (2019)
 - Add feature — iteration 22 (2019)
 - Fix typo — iteration 29 (2019)
+- Extend coverage — iteration 31 (2019)
