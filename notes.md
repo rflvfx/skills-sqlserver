@@ -62,3 +62,4 @@
 - Update docs — iteration 27 (2019)
 - Update config — iteration 28 (2019)
 - Add tests — iteration 35 (2019)
+- Add example — iteration 45 (2019)
