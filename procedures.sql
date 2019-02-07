@@ -71,3 +71,4 @@
 - Minor cleanup — iteration 14 (2019)
 - Tweak implementation — iteration 17 (2019)
 - Add feature — iteration 22 (2019)
+- Fix typo — iteration 29 (2019)
