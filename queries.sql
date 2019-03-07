@@ -77,3 +77,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Document usage — iteration 36 (2018)
 - Polish code — iteration 45 (2018)
 - Add feature — iteration 52 (2018)
+- Add validation — iteration 6 (2019)
