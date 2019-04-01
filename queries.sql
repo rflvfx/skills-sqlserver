@@ -82,3 +82,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Fix lint warnings — iteration 16 (2019)
 - Improve naming — iteration 19 (2019)
 - Fix typo — iteration 25 (2019)
+- Minor cleanup — iteration 26 (2019)
