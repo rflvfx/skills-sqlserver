@@ -50,3 +50,4 @@
 - Document usage — iteration 54 (2018)
 - Minor cleanup — iteration 56 (2018)
 - Document usage — iteration 59 (2018)
+- Add helper — iteration 3 (2019)
