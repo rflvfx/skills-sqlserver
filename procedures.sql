@@ -79,3 +79,4 @@
 - Improve naming — iteration 41 (2019)
 - Polish code — iteration 44 (2019)
 - Add tests — iteration 49 (2019)
+- Improve naming — iteration 50 (2019)
