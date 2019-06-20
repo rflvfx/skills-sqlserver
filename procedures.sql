@@ -73,3 +73,4 @@
 - Add feature — iteration 22 (2019)
 - Fix typo — iteration 29 (2019)
 - Extend coverage — iteration 31 (2019)
+- Fix edge case — iteration 33 (2019)
