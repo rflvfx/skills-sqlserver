@@ -57,3 +57,4 @@
 - Fix edge case — iteration 2 (2019)
 - Add validation — iteration 5 (2019)
 - Update config — iteration 12 (2019)
+- Update docs — iteration 13 (2019)
