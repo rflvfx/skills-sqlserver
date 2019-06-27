@@ -61,3 +61,4 @@
 - Add feature — iteration 20 (2019)
 - Update docs — iteration 27 (2019)
 - Update config — iteration 28 (2019)
+- Add tests — iteration 35 (2019)
