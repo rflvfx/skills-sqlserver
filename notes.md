@@ -67,3 +67,4 @@
 - Fix typo — iteration 54 (2019)
 - Add tests — iteration 57 (2019)
 - Minor cleanup — iteration 58 (2019)
+- Improve error handling — iteration 59 (2019)
