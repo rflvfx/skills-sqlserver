@@ -54,3 +54,4 @@
 - Refactor module — iteration 53 (2018)
 - Improve error handling — iteration 57 (2018)
 - Add example — iteration 58 (2018)
+- Fix edge case — iteration 2 (2019)
