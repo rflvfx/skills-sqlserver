@@ -55,3 +55,4 @@
 - Extend coverage — iteration 11 (2019)
 - Tweak implementation — iteration 15 (2019)
 - Update docs — iteration 18 (2019)
+- Add helper — iteration 21 (2019)
