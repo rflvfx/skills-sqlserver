@@ -51,3 +51,4 @@
 - Minor cleanup — iteration 56 (2018)
 - Document usage — iteration 59 (2018)
 - Add helper — iteration 3 (2019)
+- Fix edge case — iteration 10 (2019)
