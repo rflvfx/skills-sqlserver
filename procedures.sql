@@ -77,3 +77,4 @@
 - Fix edge case — iteration 34 (2019)
 - Add validation — iteration 37 (2019)
 - Improve naming — iteration 41 (2019)
+- Polish code — iteration 44 (2019)
