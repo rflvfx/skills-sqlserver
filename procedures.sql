@@ -64,3 +64,4 @@
 - Add validation — iteration 51 (2018)
 - Polish code — iteration 55 (2018)
 - Fix typo — iteration 60 (2018)
+- Add helper — iteration 1 (2019)
