@@ -88,3 +88,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Tweak implementation — iteration 36 (2019)
 - Minor cleanup — iteration 43 (2019)
 - Update config — iteration 46 (2019)
+- Update docs — iteration 48 (2019)
