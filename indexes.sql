@@ -61,3 +61,4 @@
 - Fix edge case — iteration 38 (2019)
 - Fix typo — iteration 39 (2019)
 - Add tests — iteration 40 (2019)
+- Fix lint warnings — iteration 42 (2019)
