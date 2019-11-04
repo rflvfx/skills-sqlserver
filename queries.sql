@@ -85,3 +85,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Minor cleanup — iteration 26 (2019)
 - Update docs — iteration 30 (2019)
 - Minor cleanup — iteration 32 (2019)
+- Tweak implementation — iteration 36 (2019)
