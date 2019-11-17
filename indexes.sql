@@ -60,3 +60,4 @@
 - Add feature — iteration 24 (2019)
 - Fix edge case — iteration 38 (2019)
 - Fix typo — iteration 39 (2019)
+- Add tests — iteration 40 (2019)
