@@ -69,3 +69,4 @@
 - Tweak implementation — iteration 7 (2019)
 - Fix lint warnings — iteration 8 (2019)
 - Minor cleanup — iteration 14 (2019)
+- Tweak implementation — iteration 17 (2019)
