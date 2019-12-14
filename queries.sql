@@ -79,3 +79,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Add feature — iteration 52 (2018)
 - Add validation — iteration 6 (2019)
 - Tweak implementation — iteration 9 (2019)
+- Fix lint warnings — iteration 16 (2019)
