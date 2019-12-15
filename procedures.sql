@@ -81,3 +81,4 @@
 - Add tests — iteration 49 (2019)
 - Improve naming — iteration 50 (2019)
 - Document usage — iteration 52 (2019)
+- Update config — iteration 55 (2019)
