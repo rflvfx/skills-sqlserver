@@ -59,3 +59,4 @@
 - Update config — iteration 12 (2019)
 - Update docs — iteration 13 (2019)
 - Add feature — iteration 20 (2019)
+- Update docs — iteration 27 (2019)
