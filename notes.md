@@ -79,3 +79,4 @@
 - Add validation — iteration 47 (2020)
 - Refactor module — iteration 49 (2020)
 - Minor cleanup — iteration 53 (2020)
+- Fix typo — iteration 54 (2020)
