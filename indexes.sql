@@ -65,3 +65,4 @@
 - Polish code — iteration 47 (2019)
 - Update config — iteration 53 (2019)
 - Update docs — iteration 56 (2019)
+- Add validation — iteration 10 (2020)
