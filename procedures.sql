@@ -89,3 +89,4 @@
 - Minor cleanup — iteration 18 (2020)
 - Tweak implementation — iteration 20 (2020)
 - Add validation — iteration 28 (2020)
+- Improve error handling — iteration 37 (2020)
