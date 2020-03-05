@@ -91,3 +91,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Update docs — iteration 48 (2019)
 - Optimize performance — iteration 60 (2019)
 - Update config — iteration 2 (2020)
+- Minor cleanup — iteration 4 (2020)
