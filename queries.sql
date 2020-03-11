@@ -98,3 +98,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Optimize performance — iteration 22 (2020)
 - Add helper — iteration 23 (2020)
 - Update dependencies — iteration 30 (2020)
+- Fix edge case — iteration 32 (2020)
