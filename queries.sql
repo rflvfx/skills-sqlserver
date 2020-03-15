@@ -100,3 +100,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Update dependencies — iteration 30 (2020)
 - Fix edge case — iteration 32 (2020)
 - Minor cleanup — iteration 33 (2020)
+- Minor cleanup — iteration 43 (2020)
