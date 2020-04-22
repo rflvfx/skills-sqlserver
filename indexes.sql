@@ -77,3 +77,4 @@
 - Add feature — iteration 29 (2020)
 - Tweak implementation — iteration 31 (2020)
 - Fix lint warnings — iteration 34 (2020)
+- Refactor module — iteration 35 (2020)
