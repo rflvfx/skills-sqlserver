@@ -91,3 +91,4 @@
 - Add validation — iteration 28 (2020)
 - Improve error handling — iteration 37 (2020)
 - Document usage — iteration 40 (2020)
+- Update docs — iteration 41 (2020)
