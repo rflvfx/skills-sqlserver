@@ -94,3 +94,4 @@
 - Update docs — iteration 41 (2020)
 - Extend coverage — iteration 48 (2020)
 - Optimize performance — iteration 50 (2020)
+- Document usage — iteration 55 (2020)
