@@ -101,3 +101,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Fix edge case — iteration 32 (2020)
 - Minor cleanup — iteration 33 (2020)
 - Minor cleanup — iteration 43 (2020)
+- Fix typo — iteration 44 (2020)
