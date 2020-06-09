@@ -83,3 +83,4 @@
 - Document usage — iteration 52 (2019)
 - Update config — iteration 55 (2019)
 - Update docs — iteration 6 (2020)
+- Fix typo — iteration 8 (2020)
