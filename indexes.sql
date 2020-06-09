@@ -70,3 +70,4 @@
 - Add feature — iteration 15 (2020)
 - Update docs — iteration 16 (2020)
 - Fix typo — iteration 17 (2020)
+- Add helper — iteration 24 (2020)
