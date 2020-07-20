@@ -74,3 +74,4 @@
 - Refactor module — iteration 19 (2020)
 - Refactor module — iteration 21 (2020)
 - Extend coverage — iteration 38 (2020)
+- Improve error handling — iteration 39 (2020)
