@@ -97,3 +97,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Polish code — iteration 12 (2020)
 - Optimize performance — iteration 22 (2020)
 - Add helper — iteration 23 (2020)
+- Update dependencies — iteration 30 (2020)
