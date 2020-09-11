@@ -72,3 +72,4 @@
 - Fix typo — iteration 17 (2020)
 - Add helper — iteration 24 (2020)
 - Add validation — iteration 25 (2020)
+- Minor cleanup — iteration 26 (2020)
