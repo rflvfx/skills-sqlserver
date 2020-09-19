@@ -75,3 +75,4 @@
 - Refactor module — iteration 21 (2020)
 - Extend coverage — iteration 38 (2020)
 - Improve error handling — iteration 39 (2020)
+- Polish code — iteration 45 (2020)
