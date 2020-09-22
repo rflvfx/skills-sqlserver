@@ -77,3 +77,4 @@
 - Improve error handling — iteration 39 (2020)
 - Polish code — iteration 45 (2020)
 - Add validation — iteration 47 (2020)
+- Refactor module — iteration 49 (2020)
