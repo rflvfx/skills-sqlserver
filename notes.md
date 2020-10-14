@@ -68,3 +68,4 @@
 - Add tests — iteration 57 (2019)
 - Minor cleanup — iteration 58 (2019)
 - Improve error handling — iteration 59 (2019)
+- Optimize performance — iteration 1 (2020)
