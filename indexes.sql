@@ -68,3 +68,4 @@
 - Add validation — iteration 10 (2020)
 - Fix typo — iteration 13 (2020)
 - Add feature — iteration 15 (2020)
+- Update docs — iteration 16 (2020)
