@@ -106,3 +106,4 @@
 - Improve naming — iteration 19 (2021)
 - Add feature — iteration 31 (2021)
 - Update docs — iteration 32 (2021)
+- Fix edge case — iteration 36 (2021)
