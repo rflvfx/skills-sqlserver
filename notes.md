@@ -85,3 +85,4 @@
 - Update docs — iteration 1 (2021)
 - Add helper — iteration 4 (2021)
 - Tweak implementation — iteration 8 (2021)
+- Optimize performance — iteration 9 (2021)
