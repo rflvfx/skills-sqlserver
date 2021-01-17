@@ -93,3 +93,4 @@
 - Improve naming — iteration 23 (2021)
 - Extend coverage — iteration 24 (2021)
 - Extend coverage — iteration 26 (2021)
+- Fix typo — iteration 34 (2021)
