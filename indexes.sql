@@ -84,3 +84,4 @@
 - Add helper — iteration 51 (2020)
 - Add validation — iteration 2 (2021)
 - Add tests — iteration 3 (2021)
+- Fix lint warnings — iteration 7 (2021)
