@@ -103,3 +103,4 @@
 - Update docs — iteration 14 (2021)
 - Document usage — iteration 15 (2021)
 - Improve naming — iteration 17 (2021)
+- Improve naming — iteration 19 (2021)
