@@ -101,3 +101,4 @@
 - Improve error handling — iteration 50 (2021)
 - Improve error handling — iteration 51 (2021)
 - Minor cleanup — iteration 53 (2021)
+- Extend coverage — iteration 57 (2021)
