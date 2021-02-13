@@ -108,3 +108,4 @@
 - Update docs — iteration 32 (2021)
 - Fix edge case — iteration 36 (2021)
 - Fix typo — iteration 41 (2021)
+- Improve error handling — iteration 43 (2021)
