@@ -108,3 +108,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Update config — iteration 13 (2021)
 - Add example — iteration 21 (2021)
 - Optimize performance — iteration 27 (2021)
+- Fix lint warnings — iteration 30 (2021)
