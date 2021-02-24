@@ -91,3 +91,4 @@
 - Document usage — iteration 18 (2021)
 - Extend coverage — iteration 22 (2021)
 - Improve naming — iteration 23 (2021)
+- Extend coverage — iteration 24 (2021)
