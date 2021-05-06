@@ -104,3 +104,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Fix typo — iteration 44 (2020)
 - Optimize performance — iteration 52 (2020)
 - Add validation — iteration 56 (2020)
+- Improve error handling — iteration 10 (2021)
