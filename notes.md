@@ -88,3 +88,4 @@
 - Optimize performance — iteration 9 (2021)
 - Add validation — iteration 11 (2021)
 - Document usage — iteration 16 (2021)
+- Document usage — iteration 18 (2021)
