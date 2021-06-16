@@ -107,3 +107,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Improve error handling — iteration 10 (2021)
 - Update config — iteration 13 (2021)
 - Add example — iteration 21 (2021)
+- Optimize performance — iteration 27 (2021)
