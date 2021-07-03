@@ -85,3 +85,4 @@
 - Add validation — iteration 2 (2021)
 - Add tests — iteration 3 (2021)
 - Fix lint warnings — iteration 7 (2021)
+- Extend coverage — iteration 20 (2021)
