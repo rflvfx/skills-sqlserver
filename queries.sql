@@ -109,3 +109,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Add example — iteration 21 (2021)
 - Optimize performance — iteration 27 (2021)
 - Fix lint warnings — iteration 30 (2021)
+- Optimize performance — iteration 35 (2021)
