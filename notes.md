@@ -89,3 +89,4 @@
 - Add validation — iteration 11 (2021)
 - Document usage — iteration 16 (2021)
 - Document usage — iteration 18 (2021)
+- Extend coverage — iteration 22 (2021)
