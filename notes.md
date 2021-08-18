@@ -99,3 +99,4 @@
 - Update dependencies — iteration 47 (2021)
 - Add helper — iteration 49 (2021)
 - Improve error handling — iteration 50 (2021)
+- Improve error handling — iteration 51 (2021)
