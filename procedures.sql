@@ -100,3 +100,4 @@
 - Minor cleanup — iteration 5 (2021)
 - Add validation — iteration 6 (2021)
 - Improve error handling — iteration 12 (2021)
+- Update docs — iteration 14 (2021)
