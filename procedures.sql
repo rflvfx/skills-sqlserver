@@ -105,3 +105,4 @@
 - Improve naming — iteration 17 (2021)
 - Improve naming — iteration 19 (2021)
 - Add feature — iteration 31 (2021)
+- Update docs — iteration 32 (2021)
