@@ -95,3 +95,4 @@
 - Extend coverage — iteration 26 (2021)
 - Fix typo — iteration 34 (2021)
 - Add tests — iteration 39 (2021)
+- Fix lint warnings — iteration 42 (2021)
