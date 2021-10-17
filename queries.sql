@@ -113,3 +113,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Add example — iteration 40 (2021)
 - Document usage — iteration 46 (2021)
 - Fix typo — iteration 52 (2021)
+- Add example — iteration 54 (2021)
