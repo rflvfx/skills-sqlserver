@@ -92,3 +92,4 @@
 - Extend coverage — iteration 33 (2021)
 - Update docs — iteration 37 (2021)
 - Tweak implementation — iteration 38 (2021)
+- Update dependencies — iteration 44 (2021)
