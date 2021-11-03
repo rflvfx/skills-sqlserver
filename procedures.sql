@@ -99,3 +99,4 @@
 - Update dependencies — iteration 59 (2020)
 - Minor cleanup — iteration 5 (2021)
 - Add validation — iteration 6 (2021)
+- Improve error handling — iteration 12 (2021)
