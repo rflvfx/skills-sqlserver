@@ -89,3 +89,4 @@
 - Fix typo — iteration 25 (2021)
 - Polish code — iteration 28 (2021)
 - Update docs — iteration 29 (2021)
+- Extend coverage — iteration 33 (2021)
