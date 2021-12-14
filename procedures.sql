@@ -102,3 +102,4 @@
 - Improve error handling — iteration 12 (2021)
 - Update docs — iteration 14 (2021)
 - Document usage — iteration 15 (2021)
+- Improve naming — iteration 17 (2021)
