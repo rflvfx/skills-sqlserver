@@ -97,3 +97,4 @@
 - Document usage — iteration 55 (2020)
 - Add tests — iteration 58 (2020)
 - Update dependencies — iteration 59 (2020)
+- Minor cleanup — iteration 5 (2021)
