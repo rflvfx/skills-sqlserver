@@ -116,3 +116,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Add example — iteration 54 (2021)
 - Update dependencies — iteration 55 (2021)
 - Optimize performance — iteration 58 (2021)
+- Minor cleanup — iteration 8 (2022)
