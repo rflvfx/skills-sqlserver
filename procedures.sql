@@ -116,3 +116,4 @@
 - Optimize performance — iteration 7 (2022)
 - Extend coverage — iteration 12 (2022)
 - Document usage — iteration 20 (2022)
+- Update config — iteration 21 (2022)
