@@ -104,3 +104,4 @@
 - Extend coverage — iteration 16 (2022)
 - Improve naming — iteration 17 (2022)
 - Refactor module — iteration 22 (2022)
+- Polish code — iteration 25 (2022)
