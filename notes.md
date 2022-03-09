@@ -104,3 +104,4 @@
 - Extend coverage — iteration 57 (2021)
 - Update dependencies — iteration 60 (2021)
 - Add feature — iteration 3 (2022)
+- Add example — iteration 4 (2022)
