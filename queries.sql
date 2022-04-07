@@ -127,3 +127,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Add example — iteration 42 (2022)
 - Add helper — iteration 47 (2022)
 - Tweak implementation — iteration 48 (2022)
+- Improve error handling — iteration 49 (2022)
