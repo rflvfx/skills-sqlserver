@@ -111,3 +111,4 @@
 - Improve error handling — iteration 43 (2021)
 - Update docs — iteration 59 (2021)
 - Tweak implementation — iteration 1 (2022)
+- Document usage — iteration 2 (2022)
