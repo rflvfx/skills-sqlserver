@@ -108,3 +108,4 @@
 - Update dependencies — iteration 28 (2022)
 - Add helper — iteration 34 (2022)
 - Tweak implementation — iteration 36 (2022)
+- Minor cleanup — iteration 40 (2022)
