@@ -117,3 +117,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Update dependencies — iteration 55 (2021)
 - Optimize performance — iteration 58 (2021)
 - Minor cleanup — iteration 8 (2022)
+- Tweak implementation — iteration 9 (2022)
