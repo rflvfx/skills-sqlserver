@@ -128,3 +128,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Add helper — iteration 47 (2022)
 - Tweak implementation — iteration 48 (2022)
 - Improve error handling — iteration 49 (2022)
+- Improve naming — iteration 55 (2022)
