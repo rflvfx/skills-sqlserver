@@ -118,3 +118,4 @@
 - Document usage — iteration 20 (2022)
 - Update config — iteration 21 (2022)
 - Improve error handling — iteration 24 (2022)
+- Add helper — iteration 26 (2022)
