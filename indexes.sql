@@ -110,3 +110,4 @@
 - Tweak implementation — iteration 36 (2022)
 - Minor cleanup — iteration 40 (2022)
 - Fix edge case — iteration 43 (2022)
+- Improve error handling — iteration 46 (2022)
