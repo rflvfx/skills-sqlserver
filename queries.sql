@@ -119,3 +119,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Minor cleanup — iteration 8 (2022)
 - Tweak implementation — iteration 9 (2022)
 - Update dependencies — iteration 19 (2022)
+- Fix edge case — iteration 27 (2022)
