@@ -117,3 +117,4 @@
 - Extend coverage — iteration 12 (2022)
 - Document usage — iteration 20 (2022)
 - Update config — iteration 21 (2022)
+- Improve error handling — iteration 24 (2022)
