@@ -123,3 +123,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Extend coverage — iteration 30 (2022)
 - Improve naming — iteration 37 (2022)
 - Fix lint warnings — iteration 38 (2022)
+- Improve naming — iteration 39 (2022)
