@@ -98,3 +98,4 @@
 - Tweak implementation — iteration 56 (2021)
 - Extend coverage — iteration 5 (2022)
 - Add example — iteration 10 (2022)
+- Update config — iteration 13 (2022)
