@@ -127,3 +127,4 @@
 - Tweak implementation — iteration 50 (2022)
 - Polish code — iteration 51 (2022)
 - Add tests — iteration 53 (2022)
+- Document usage — iteration 58 (2022)
