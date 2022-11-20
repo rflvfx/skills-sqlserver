@@ -112,3 +112,4 @@
 - Polish code — iteration 32 (2022)
 - Polish code — iteration 33 (2022)
 - Document usage — iteration 52 (2022)
+- Fix edge case — iteration 54 (2022)
