@@ -113,3 +113,4 @@
 - Improve error handling — iteration 46 (2022)
 - Optimize performance — iteration 56 (2022)
 - Update docs — iteration 57 (2022)
+- Fix edge case — iteration 60 (2022)
