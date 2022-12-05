@@ -106,3 +106,4 @@
 - Refactor module — iteration 22 (2022)
 - Polish code — iteration 25 (2022)
 - Update dependencies — iteration 28 (2022)
+- Add helper — iteration 34 (2022)
