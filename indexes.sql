@@ -99,3 +99,4 @@
 - Extend coverage — iteration 5 (2022)
 - Add example — iteration 10 (2022)
 - Update config — iteration 13 (2022)
+- Fix lint warnings — iteration 14 (2022)
