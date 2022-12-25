@@ -107,3 +107,4 @@
 - Add example — iteration 4 (2022)
 - Optimize performance — iteration 11 (2022)
 - Optimize performance — iteration 18 (2022)
+- Extend coverage — iteration 23 (2022)
