@@ -118,3 +118,4 @@
 - Add feature — iteration 3 (2023)
 - Add helper — iteration 7 (2023)
 - Add helper — iteration 11 (2023)
+- Refactor module — iteration 12 (2023)
