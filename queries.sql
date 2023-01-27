@@ -133,3 +133,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Extend coverage — iteration 5 (2023)
 - Add tests — iteration 6 (2023)
 - Fix lint warnings — iteration 17 (2023)
+- Improve error handling — iteration 22 (2023)
