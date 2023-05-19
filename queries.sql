@@ -130,3 +130,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Improve error handling — iteration 49 (2022)
 - Improve naming — iteration 55 (2022)
 - Improve error handling — iteration 4 (2023)
+- Extend coverage — iteration 5 (2023)
