@@ -123,3 +123,4 @@
 - Document usage — iteration 24 (2023)
 - Add example — iteration 30 (2023)
 - Update config — iteration 35 (2023)
+- Add tests — iteration 36 (2023)
