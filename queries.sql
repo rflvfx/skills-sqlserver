@@ -140,3 +140,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Optimize performance — iteration 38 (2023)
 - Add helper — iteration 39 (2023)
 - Fix lint warnings — iteration 43 (2023)
+- Improve naming — iteration 47 (2023)
