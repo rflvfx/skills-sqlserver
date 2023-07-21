@@ -122,3 +122,4 @@
 - Add feature — iteration 21 (2023)
 - Document usage — iteration 24 (2023)
 - Add example — iteration 30 (2023)
+- Update config — iteration 35 (2023)
