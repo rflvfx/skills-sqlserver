@@ -120,3 +120,4 @@
 - Add helper — iteration 16 (2023)
 - Update config — iteration 19 (2023)
 - Add feature — iteration 21 (2023)
+- Document usage — iteration 24 (2023)
