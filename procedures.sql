@@ -129,3 +129,4 @@
 - Add tests — iteration 53 (2022)
 - Document usage — iteration 58 (2022)
 - Optimize performance — iteration 8 (2023)
+- Improve error handling — iteration 13 (2023)
