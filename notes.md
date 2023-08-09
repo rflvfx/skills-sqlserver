@@ -116,3 +116,4 @@
 - Add tests — iteration 59 (2022)
 - Improve naming — iteration 1 (2023)
 - Add feature — iteration 3 (2023)
+- Add helper — iteration 7 (2023)
