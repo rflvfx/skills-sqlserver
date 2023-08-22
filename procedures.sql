@@ -135,3 +135,4 @@
 - Update config — iteration 25 (2023)
 - Update docs — iteration 27 (2023)
 - Extend coverage — iteration 34 (2023)
+- Optimize performance — iteration 41 (2023)
