@@ -133,3 +133,4 @@
 - Add example — iteration 15 (2023)
 - Update docs — iteration 18 (2023)
 - Update config — iteration 25 (2023)
+- Update docs — iteration 27 (2023)
