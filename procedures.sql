@@ -140,3 +140,4 @@
 - Add helper — iteration 49 (2023)
 - Improve error handling — iteration 51 (2023)
 - Update config — iteration 54 (2023)
+- Update docs — iteration 58 (2023)
