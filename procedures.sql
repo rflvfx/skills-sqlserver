@@ -138,3 +138,4 @@
 - Optimize performance — iteration 41 (2023)
 - Add helper — iteration 46 (2023)
 - Add helper — iteration 49 (2023)
+- Improve error handling — iteration 51 (2023)
