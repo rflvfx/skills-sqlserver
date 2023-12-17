@@ -114,3 +114,4 @@
 - Document usage — iteration 52 (2022)
 - Fix edge case — iteration 54 (2022)
 - Add tests — iteration 59 (2022)
+- Improve naming — iteration 1 (2023)
