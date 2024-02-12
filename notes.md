@@ -135,3 +135,4 @@
 - Add feature — iteration 11 (2024)
 - Add example — iteration 12 (2024)
 - Add tests — iteration 29 (2024)
+- Minor cleanup — iteration 32 (2024)
