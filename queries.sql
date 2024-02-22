@@ -146,3 +146,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Fix typo — iteration 57 (2023)
 - Update docs — iteration 1 (2024)
 - Fix typo — iteration 2 (2024)
+- Add helper — iteration 5 (2024)
