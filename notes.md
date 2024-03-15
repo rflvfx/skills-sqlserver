@@ -145,3 +145,4 @@
 - Tweak implementation — iteration 43 (2024)
 - Add example — iteration 47 (2024)
 - Minor cleanup — iteration 58 (2024)
+- Add tests — iteration 59 (2024)
