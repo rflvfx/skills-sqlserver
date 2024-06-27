@@ -156,3 +156,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Document usage — iteration 37 (2024)
 - Add validation — iteration 50 (2024)
 - Add validation — iteration 52 (2024)
+- Add feature — iteration 53 (2024)
