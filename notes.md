@@ -136,3 +136,4 @@
 - Add example — iteration 12 (2024)
 - Add tests — iteration 29 (2024)
 - Minor cleanup — iteration 32 (2024)
+- Update docs — iteration 33 (2024)
