@@ -136,3 +136,4 @@
 - Add helper — iteration 20 (2024)
 - Add validation — iteration 21 (2024)
 - Update config — iteration 22 (2024)
+- Improve error handling — iteration 25 (2024)
