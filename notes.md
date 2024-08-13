@@ -131,3 +131,4 @@
 - Optimize performance — iteration 55 (2023)
 - Document usage — iteration 60 (2023)
 - Update config — iteration 3 (2024)
+- Update docs — iteration 9 (2024)
