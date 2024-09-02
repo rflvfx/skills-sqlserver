@@ -138,3 +138,4 @@
 - Update config — iteration 22 (2024)
 - Improve error handling — iteration 25 (2024)
 - Update docs — iteration 27 (2024)
+- Add validation — iteration 28 (2024)
