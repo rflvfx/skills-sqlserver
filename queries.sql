@@ -153,3 +153,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Fix typo — iteration 24 (2024)
 - Fix typo — iteration 26 (2024)
 - Fix lint warnings — iteration 30 (2024)
+- Document usage — iteration 37 (2024)
