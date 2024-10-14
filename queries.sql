@@ -148,3 +148,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Fix typo — iteration 2 (2024)
 - Add helper — iteration 5 (2024)
 - Fix lint warnings — iteration 13 (2024)
+- Document usage — iteration 14 (2024)
