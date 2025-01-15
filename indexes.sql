@@ -161,3 +161,4 @@
 - Tweak implementation — iteration 48 (2025)
 - Tweak implementation — iteration 49 (2025)
 - Polish code — iteration 50 (2025)
+- Improve error handling — iteration 52 (2025)
