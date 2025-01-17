@@ -152,3 +152,4 @@
 - Tweak implementation — iteration 10 (2025)
 - Minor cleanup — iteration 22 (2025)
 - Add validation — iteration 26 (2025)
+- Improve naming — iteration 30 (2025)
