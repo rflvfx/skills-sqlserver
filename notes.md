@@ -148,3 +148,4 @@
 - Add tests — iteration 59 (2024)
 - Update dependencies — iteration 1 (2025)
 - Update docs — iteration 4 (2025)
+- Update docs — iteration 6 (2025)
