@@ -160,3 +160,4 @@
 - Add tests — iteration 47 (2025)
 - Tweak implementation — iteration 48 (2025)
 - Tweak implementation — iteration 49 (2025)
+- Polish code — iteration 50 (2025)
