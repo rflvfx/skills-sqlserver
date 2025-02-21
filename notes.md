@@ -150,3 +150,4 @@
 - Update docs — iteration 4 (2025)
 - Update docs — iteration 6 (2025)
 - Tweak implementation — iteration 10 (2025)
+- Minor cleanup — iteration 22 (2025)
