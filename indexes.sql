@@ -149,3 +149,4 @@
 - Update dependencies — iteration 2 (2025)
 - Refactor module — iteration 7 (2025)
 - Fix typo — iteration 8 (2025)
+- Document usage — iteration 12 (2025)
