@@ -154,3 +154,4 @@
 - Fix edge case — iteration 15 (2025)
 - Add validation — iteration 19 (2025)
 - Add validation — iteration 28 (2025)
+- Document usage — iteration 29 (2025)
