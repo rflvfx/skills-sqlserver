@@ -160,3 +160,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Update config — iteration 55 (2024)
 - Polish code — iteration 57 (2024)
 - Improve naming — iteration 3 (2025)
+- Improve error handling — iteration 9 (2025)
