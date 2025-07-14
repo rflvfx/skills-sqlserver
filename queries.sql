@@ -168,3 +168,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Add feature — iteration 25 (2025)
 - Fix edge case — iteration 27 (2025)
 - Update dependencies — iteration 32 (2025)
+- Polish code — iteration 41 (2025)
