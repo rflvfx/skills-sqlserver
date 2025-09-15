@@ -161,3 +161,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Polish code — iteration 57 (2024)
 - Improve naming — iteration 3 (2025)
 - Improve error handling — iteration 9 (2025)
+- Document usage — iteration 11 (2025)
