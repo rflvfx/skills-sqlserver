@@ -166,3 +166,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Update docs — iteration 17 (2025)
 - Improve naming — iteration 20 (2025)
 - Add feature — iteration 25 (2025)
+- Fix edge case — iteration 27 (2025)
