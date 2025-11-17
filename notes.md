@@ -156,3 +156,4 @@
 - Optimize performance — iteration 31 (2025)
 - Update dependencies — iteration 33 (2025)
 - Polish code — iteration 35 (2025)
+- Update docs — iteration 36 (2025)
