@@ -171,3 +171,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Polish code — iteration 41 (2025)
 - Update config — iteration 42 (2025)
 - Optimize performance — iteration 46 (2025)
+- Add tests — iteration 51 (2025)
