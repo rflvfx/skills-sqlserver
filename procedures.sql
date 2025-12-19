@@ -161,3 +161,4 @@
 - Fix typo — iteration 23 (2025)
 - Extend coverage — iteration 24 (2025)
 - Fix lint warnings — iteration 34 (2025)
+- Add helper — iteration 40 (2025)
