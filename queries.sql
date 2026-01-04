@@ -176,3 +176,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Extend coverage — iteration 55 (2025)
 - Optimize performance — iteration 60 (2025)
 - Update dependencies — iteration 1 (2026)
+- Polish code — iteration 3 (2026)
