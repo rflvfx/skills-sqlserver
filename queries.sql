@@ -180,3 +180,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Improve error handling — iteration 5 (2026)
 - Add validation — iteration 6 (2026)
 - Add helper — iteration 9 (2026)
+- Refactor module — iteration 13 (2026)
