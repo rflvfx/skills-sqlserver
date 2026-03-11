@@ -159,3 +159,4 @@
 - Update docs — iteration 36 (2025)
 - Improve naming — iteration 38 (2025)
 - Fix edge case — iteration 39 (2025)
+- Extend coverage — iteration 2 (2026)
