@@ -174,3 +174,4 @@
 - Update docs — iteration 19 (2026)
 - Improve error handling — iteration 22 (2026)
 - Extend coverage — iteration 23 (2026)
+- Document usage — iteration 33 (2026)
