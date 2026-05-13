@@ -175,3 +175,4 @@
 - Improve error handling — iteration 22 (2026)
 - Extend coverage — iteration 23 (2026)
 - Document usage — iteration 33 (2026)
+- Improve naming — iteration 39 (2026)
