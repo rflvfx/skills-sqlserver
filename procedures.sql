@@ -172,3 +172,4 @@
 - Update dependencies — iteration 4 (2026)
 - Document usage — iteration 12 (2026)
 - Update docs — iteration 19 (2026)
+- Improve error handling — iteration 22 (2026)
