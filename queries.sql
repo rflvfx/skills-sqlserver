@@ -188,3 +188,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Fix lint warnings — iteration 34 (2026)
 - Document usage — iteration 36 (2026)
 - Add example — iteration 42 (2026)
+- Add feature — iteration 43 (2026)
