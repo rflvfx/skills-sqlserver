@@ -177,3 +177,4 @@
 - Document usage — iteration 33 (2026)
 - Improve naming — iteration 39 (2026)
 - Add helper — iteration 40 (2026)
+- Add example — iteration 45 (2026)
