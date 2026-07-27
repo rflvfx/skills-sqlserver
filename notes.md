@@ -162,3 +162,4 @@
 - Extend coverage — iteration 2 (2026)
 - Polish code — iteration 8 (2026)
 - Fix typo — iteration 10 (2026)
+- Add feature — iteration 11 (2026)
