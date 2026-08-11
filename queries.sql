@@ -191,3 +191,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Add feature — iteration 43 (2026)
 - Optimize performance — iteration 50 (2026)
 - Tweak implementation — iteration 52 (2026)
+- Add feature — iteration 54 (2026)
