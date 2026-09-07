@@ -178,3 +178,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Update dependencies — iteration 1 (2026)
 - Polish code — iteration 3 (2026)
 - Improve error handling — iteration 5 (2026)
+- Add validation — iteration 6 (2026)
