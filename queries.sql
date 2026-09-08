@@ -181,3 +181,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Add validation — iteration 6 (2026)
 - Add helper — iteration 9 (2026)
 - Refactor module — iteration 13 (2026)
+- Update dependencies — iteration 14 (2026)
