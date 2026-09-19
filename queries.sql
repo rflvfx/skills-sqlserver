@@ -190,3 +190,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Add example — iteration 42 (2026)
 - Add feature — iteration 43 (2026)
 - Optimize performance — iteration 50 (2026)
+- Tweak implementation — iteration 52 (2026)
