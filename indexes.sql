@@ -168,3 +168,4 @@
 - Tweak implementation — iteration 18 (2026)
 - Add feature — iteration 20 (2026)
 - Polish code — iteration 27 (2026)
+- Add validation — iteration 30 (2026)
