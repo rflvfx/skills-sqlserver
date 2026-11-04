@@ -166,3 +166,4 @@
 - Document usage — iteration 15 (2026)
 - Add example — iteration 17 (2026)
 - Tweak implementation — iteration 18 (2026)
+- Add feature — iteration 20 (2026)
