@@ -179,3 +179,4 @@ SELECT * FROM ranked WHERE rn = 1;
 - Polish code — iteration 3 (2026)
 - Improve error handling — iteration 5 (2026)
 - Add validation — iteration 6 (2026)
+- Add helper — iteration 9 (2026)
