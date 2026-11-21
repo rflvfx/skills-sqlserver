@@ -172,3 +172,4 @@
 - Tweak implementation — iteration 38 (2026)
 - Add example — iteration 41 (2026)
 - Tweak implementation — iteration 46 (2026)
+- Improve error handling — iteration 49 (2026)
