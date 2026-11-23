@@ -170,3 +170,4 @@
 - Add helper — iteration 28 (2026)
 - Document usage — iteration 32 (2026)
 - Fix lint warnings — iteration 35 (2026)
+- Add feature — iteration 37 (2026)
